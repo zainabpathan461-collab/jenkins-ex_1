@@ -1,4 +1,7 @@
-def addition(a,b):
+
+def addition(a, b):
     return a + b
-if __name__ =="__main__":
-    print("Addition is:",addition(20,30))
+
+
+if __name__ == "__main__":
+    print("Addition is:", addition(20, 30))
